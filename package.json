@@ -9,7 +9,7 @@
     "test": "vue-cli-service build --mode test"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dwb-vue-drawer": "0.0.4",
     "echarts": "^4.4.0",
     "es6-promise": "^4.2.5",
